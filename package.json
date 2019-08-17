@@ -41,7 +41,7 @@
   },
   "dependencies": {
     "fastify-plugin": "^1.0.0",
-    "qs": "^6.5.1"
+    "qs": "^6.8.0"
   },
   "types": "formbody.d.ts",
   "greenkeeper": {
